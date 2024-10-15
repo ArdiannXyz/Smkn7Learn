@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+
+    <!-- Spinner Items -->
+    <string-array name="user_type">
+        <item>Guru</item>
+        <item>Murid</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+        <!-- Add the missing string resources here -->
+        <string name="prompt_password">Password</string>
+        <string name="action_sign_in_short">Sign In</string>
+        <string name="action_sign_in">Sign In</string>
+        <string name="prompt_email">Email</string>
+
+</resources>
